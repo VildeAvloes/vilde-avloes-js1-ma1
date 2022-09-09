@@ -50,7 +50,6 @@ function listOfCats(list) {
 listOfCats(cats);
 
 //Question 8
-
 function createCats(cats) {
   let html = "";
 
